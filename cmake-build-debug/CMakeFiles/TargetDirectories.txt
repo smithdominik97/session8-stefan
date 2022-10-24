@@ -1,0 +1,3 @@
+C:/Users/smith/CLionProjects/session8/cmake-build-debug/CMakeFiles/session8.dir
+C:/Users/smith/CLionProjects/session8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/smith/CLionProjects/session8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
